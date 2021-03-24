@@ -13,27 +13,27 @@ let g:colors_name = "dalton"
 
 let s:palette = {}
 
-let s:palette.bg        = { 'dark': "#0C0A0F"}
+let s:palette.bg        = { 'dark': "#04103d"}
 
-let s:palette.comment   = {'dark': "#5C6773"}
+let s:palette.comment   = {'dark': "#8fb7c9"}
 let s:palette.markup    = {'dark': "#E85F3F"}
-let s:palette.constant  = {'dark': "#FFEE67"}
+let s:palette.constant  = {'dark': "#f87c56"}
 let s:palette.operator  = {'dark': "#F0EE00"}
-let s:palette.tag       = {'dark': "#2B7DF0"}
-let s:palette.regexp    = {'dark': "#32BCD9"}
-let s:palette.string    = {'dark': "#3BF035"}
-let s:palette.function  = {'dark': "#30DB22"}
-let s:palette.special   = {'dark': "#DEAE33"}
-let s:palette.keyword   = {'dark': "#F50C40"}
+let s:palette.tag       = {'dark': "#6fd3fa"}
+let s:palette.regexp    = {'dark': "#89DDFF"}
+let s:palette.string    = {'dark': "#5bdaa9"}
+let s:palette.function  = {'dark': "#6f94e6"}
+let s:palette.special   = {'dark': "#6f94e6"}
+let s:palette.keyword   = {'dark': "#6f94e6"}
 
 let s:palette.error     = {'dark': "#FF001D"}
 let s:palette.accent    = {'dark': "#FF8F00"}
-let s:palette.panel     = {'dark': "#14191F"}
-let s:palette.guide     = {'dark': "#2D3640"}
-let s:palette.line      = {'dark': "#161419"}
-let s:palette.selection = {'dark': "#253340"}
-let s:palette.fg        = {'dark': "#FFFFFF"}
-let s:palette.fg_idle   = {'dark': "#3E4B59"}
+let s:palette.panel     = {'dark': "#25437a"}
+let s:palette.guide     = {'dark': "#25437a"}
+let s:palette.line      = {'dark': "#121936"}
+let s:palette.selection = {'dark': "#7985c970"}
+let s:palette.fg        = {'dark': "#EEEEEE"}
+let s:palette.fg_idle   = {'dark': "#EEEEEE"}
 
 "}}}
 
